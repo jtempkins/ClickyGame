@@ -1,0 +1,62 @@
+[
+{
+    "id": 1,
+    "image": "/assets/images/butterfly.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/unicorn2.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/dragon.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/egyptian.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/gnome.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/horse.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/octopus.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/pixie.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/pony.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/rockyBullwinkle.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/slime.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/unicorn.png",
+    "clicked": false
+  }
+]
