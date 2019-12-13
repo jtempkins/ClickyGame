@@ -1,13 +1,15 @@
 import React from 'react';
 import './navbar.css';
 
-// the onClick function for the clicked image so you can tell if it's been clicked before
 const Navbar = props => (
-  <nav className="navbar">
-    <a href = "/">Clicky Game</a>
-  score = {props.score}
-  
-  </nav>
+  <div className="navbar ">
+    <div>Clicky Game</div>
+    <div className={props.clickQuality}>{props.clickImage}</div>
+    <div>
+      Score: {props.score} <span className="pipe">|</span> High Score: {props.highScore}
+    </div>
+  </div>
 );
+
 
 export default Navbar;
